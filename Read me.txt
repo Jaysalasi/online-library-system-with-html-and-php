@@ -1,0 +1,5 @@
+fut_lib is your database, import it into your mysql
+
+I deleted all the files I uploaded so you have to upload yours again,
+
+if you donot understand anything you can hala me
